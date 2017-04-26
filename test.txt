@@ -1,0 +1,7 @@
+total 40
+drwxr-xr-x  3 dongdongpo dongdongpo 4096 Apr 26 22:44 ./
+drwx------ 25 dongdongpo dongdongpo 4096 Apr 26 22:35 ../
+drwxr-xr-x  8 dongdongpo dongdongpo 4096 Apr 26 22:35 .git/
+-rw-r--r--  1 dongdongpo dongdongpo    0 Apr 26 21:17 LICENSE
+-rw-r--r--  1 dongdongpo dongdongpo  160 Apr 26 22:35 readme.txt
+-rw-r--r--  1 dongdongpo dongdongpo    0 Apr 26 22:44 test.txt
